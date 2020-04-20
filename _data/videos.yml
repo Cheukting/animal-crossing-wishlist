@@ -1,0 +1,241 @@
+- title: Python Zero to Hero - Ep.3 - Python Basics 2 (bool, list, dict)
+  vid: 7DDYTmMk1jk
+  description: |
+    Today we learnt another 3 types of Python objects: Boolean (bool), List (list) and Dictionary (dict). I also explained a bit about mutability and hashable in Python.
+
+    You can get the slide deck [here](https://bit.ly/PythonBasics2) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://t.co/hXhTu0ZIG8?amp=1) for more beginner's (slightly more advance) tutorial.
+  date: 2020-04-19
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.4 we have built our schema
+  vid: dywhlFSWKig
+  description: |
+    Finally we finish building the whole schema. We put the multiple domains and range of the properties into a subclass of a single domain and properties so we can build the properties of the graph properly.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+  date: 2020-04-17
+  author: Cheuk Ting Ho
+
+- title: Exciting Mac mini Unboxing
+  vid: 39sIYmIqZGo
+  description: |
+    Big thanks to [TerminusDB](https://terminusdb.com/)!
+
+    With the 6-core i7 Mac mini, hopefully, we will have better streaming and tutorials coming! Watch me on [Twitch](https://www.twitch.tv/cheukting_ho) for my tutorials including World of WoqlCraft tutorial every Friday at 4pm UK time and Python beginner tutorials every Sunday at 1pm UK time. Follow TerminusDB [here](https://www.youtube.com/channel/UC5kZt8pP-FM0u-R0BQr78YA) for weekly Webnibar that I hosted and knowledge-rich contents.
+  date: 2020-04-15
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.3
+  vid: srCjYJPFRM4
+  description: |
+    [EuroPython talk voting started](https://ep2020.europython.eu/events/talk-voting/)
+
+    [Python Pizza](https://remote.python.pizza/) Speaker line up is great!
+
+    Free Django beginner course: <https://morioh.com/p/71bf7795a878>
+
+    [PyCon UK has been cancelled](https://twitter.com/PyConUK/status/1249351345003528192)
+
+    [EffectiveQuadratures got support from NUMFocus](https://twitter.com/EQuadratures/status/1249795188857470976)
+
+    [PyAmsterdam flying software Circus](https://www.meetup.com/Software-Circus/events/270038344/) - talking about FastAPI lib
+
+    [Python IE meetup next Wed 22nd April 2020](https://www.meetup.com/pythonireland/events/270053115/)
+
+    PyPI Highlight:
+
+    EffectiveQuadratures - <https://www.effective-quadratures.org/>
+
+    SimPy - discrete-event simulation library - <https://simpy.readthedocs.io/en/latest/>
+  date: 2020-04-15
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.3 - Web tracking and cookie consensus banner
+  vid: u4Yhx68mbZA
+  description: |
+    Today I added a GDPR compliance web tracking to my website. If you are using another tracking service (e.g. Google Analytics) that use cookies, I will also show you how to add a banner to get visitors' consensus.
+
+    Web tracking service that I use: [Fathom Analytics](https://usefathom.com/ref/W4UI50)
+
+    This site to download the cookie consent banner: [osano.com](https://www.osano.com/cookieconsent/download/)
+
+    I got the JavaScript for clearing all cookies from this [Stackoverflow thread](https://stackoverflow.com/a/33366171)
+  date: 2020-04-13
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.2 - Python Basics (int, float, str)
+  vid: GZx4go3ybsE
+  description: |
+    Today we learnt 3 types of Python objects: Integer (int), Decimal Numbers (float) and Strings (str). With the help of some built-in functions we can write very simple Python programs.
+
+    You can get the slide deck [here](https://bit.ly/PythonBasics1) and the example code form [GitHub here](https://github.com/Cheukting/python02hero).
+  date: 2020-04-12
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.3 finish off the type objects
+  vid: L2DN_he0l7g
+  description: |
+    Finish building the type object structures in the schema, including the SubClassOf relations.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+  date: 2020-04-10
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.2
+  vid: 3_5qlAiPzZY
+  description: |
+    [PyCon US go online](https://python.us19.list-manage.com/track/click?u=5697f493c3a48994f504d4deb&id=e8f98ba7ce&e=01fe521e01)! Subscribe to their [YouTube channel to catch all the talks](https://python.us19.list-manage.com/track/click?u=5697f493c3a48994f504d4deb&id=8535f39b4c&e=01fe521e01)
+
+    PyLadies also has [YouTube Channel](https://www.youtube.com/c/PyLadies), [Sign up for membership](https://t.co/L7Dsrmx7Xs?amp=1)
+
+    Python Ireland's 1st meetUp is tonight talking about [App Performance Monitoring in Python](https://www.meetup.com/pythonireland/events/fnzvknybcgblb/
+    ).
+
+    PyCon Australia and PyCon Africa are also going online, details to be announced.
+
+    [Scikit-image join NUMFocus!](https://numfocus.salsalabs.org/numfocusnewsletter_december2019_copy1_copy1_copy1?wvpId=1f958e36-9e22-4880-9ed6-8ce75d6596f9)
+
+    PyPI Highlight:
+
+    Foxdot  - Make music with Python - <https://foxdot.org/>
+
+    FastAPI - a high-performance framework, easy to learn, and fast to code - <https://fastapi.tiangolo.com>
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.2 - using gulp pipeline for the css build
+  vid: KpGqIzD-CzI
+  description: |
+    We continue to work on my website. Introducing Gulp.js, to speed up the Jekyll build by using Gulp to lint and prebuild the css (as well as the js scripts). Gulp will watch and automatically build a minified version of the css and js scripts when there are changes in the source files.
+
+    (p.s. sorry for the abrupt end, the internet got cut off almost at the end of the streaming and you have not missed anything important really)
+  date: 2020-04-06
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.1 - get your Python setup
+  vid: lVjWSugPHsY
+  description: |
+    Today we start our Python journey. Start setting your Python coding environment. I tried to explain as detail as possible for you to understand how your Pyhton got installed and information about Python and related software packages.
+
+    You can grab the slide deck [here](https://bit.ly/PythonSetup).
+  date: 2020-04-05
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.2 continue crafting schema
+  vid: 9lWxdcU1DiE
+  description: |
+    We tried to continue building the schema, only being brutally ended by my poor internet connection.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+  date: 2020-04-04
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.1
+  vid: L0TsE1DmBFo
+  description: |
+    In this episode, we chat about:
+
+    Pyjamas - online conference [recruiting organisers](https://forms.gle/i6SWKT8C4yDD1pKi7)
+
+    CfP for Remote Python Pizza [ends on the 6th April](https://remote.python.pizza/)
+
+    [EuroPython goes online](https://blog.europython.eu/post/614102095419850752/europython-2020-online-conference-from-july-23-26)
+
+    [First virtual meetup for PyCon IE](https://www.meetup.com/pythonireland/events/fnzvknybcgblb/)
+
+    Lais will be speaking at [PyAmsterdam](https://www.meetup.com/PyAmsterdam/events/269773330/)
+
+    PyPI Highlights - [Extruct](https://github.com/scrapinghub/extruct)
+
+    PyPI Highlights - [Delorean](https://github.com/myusuf3/delorean)
+  date: 2020-04-01
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.1 custom Jekyll Plug-in
+  vid: 5YqlkRN8Nek
+  description: |
+    I wrote Ruby for the first time! With a little bit of Ruby, you can make Jekyll do anything for you. All you need is write your own plug-in. Today we will customize one here: [https://github.com/avillafiorita/jekyll-datapage_gen](https://github.com/avillafiorita/jekyll-datapage_gen)
+
+    Things that I used for my website:
+    [https://github.com/sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) and
+    [https://github.com/samesies/barber-jekyll](https://github.com/samesies/barber-jekyll)
+  date: 2020-03-30
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.1 making type opjects
+  vid: CoETjW3Y2f0
+  description: |
+    First episode of World of WoqlCraft! We try to use the type provided form Schema.org to construct our schema objects in [TerminusDB](https://terminusdb.com/) (p.s. sorry my connection got cut off, gonna fix this internet problem soon)
+  date: 2020-03-27
+  author: Cheuk Ting Ho
+
+- title: How to be Pythonic? Design a Query Language in Python
+  vid: Hl7xL7KUrKg
+  description: |
+    We created Python API calls that let you can make queries and manipulate data in our graph database. We thought about what will be best for Pythonistas? What will be the most Pythonic way to do it? (Is it a thing?) Here’s our journey in making WOQLpy and we want to make it useful to you.
+  date: 2020-03-25
+  author: Cheuk Ting Ho
+
+- title: WIP Pyjamas Conf - a 24hr global online Python conference
+  vid: w-RWJqfDiVc
+  description: |
+    Are you disappointed by many conferences being cancelled this year? Fear not! We are organising a 24hr global online Python conference. Do you want to help? We need you! Please [fill in the form here](https://forms.gle/i6SWKT8C4yDD1pKi7)
+  date: 2020-03-24
+  author: Cheuk Ting Ho
+
+- title: Customizing Python Docs Generated by Sphinx
+  vid: oPuHe76NpJk
+  description: |
+    I tried to add customized css to Sphinx for the TerminusDB Python Client. I was not sure that it works, it's a blind let's code.
+  date: 2020-03-23
+  author: Cheuk Ting Ho
+
+- title: Stuffing all Human History in One Knowledge Graph
+  vid: nlMEhj6_Mnc
+  description: |
+    This was the talk that I gave at Open Belgium. It was not recorded so I try to stream it at home. See how we can put the Seshat world history bank into TerminusDB. (sorry about my horrible green screen)
+  date: 2020-03-20
+  author: Cheuk Ting Ho
+
+- title: Test tutorial - sydicating blog post to dev.to and Medium
+  vid: UFay8F0ykfQ
+  description: |
+    In this tutorial, I am showing you how to syndicate your blog post to dev.to and Medium (sorry about the sound quality at the end, and my background, I am still learning how to do it properly)
+  date: 2020-03-17
+  author: Cheuk Ting Ho
+
+- title: Running An Open Source Project Like A Start Up
+  vid: ZhE-xdJ6V34
+  description: |
+    Not so long ago, I started an open source project - PicknMIx. It feels like running a start up if you are serious about it. Want to know my story? Want to check if you can do it as well? I will tell you.
+  date: 2019-10-09
+  author: Cheuk Ting Ho
+
+- title: Do we have a diversity problem in Python community
+  vid: g68eJwauOww
+  description: |
+    Python community cares about diversity. So do we still have a problem in, especially gender, diversity? We will look at some data and see if there’s a true problem, discuss what the problem may be and how to fix it.
+  date: 2019-09-15
+  author: Cheuk Ting Ho
+
+- title: I am telling you 3 things about Chatbot so you don't have to learn it the hard way
+  vid: wS5PaQ91wes
+  description: |
+    Now we can talk to our gadgets as if it’s a real human. It makes you wonder when you chat with the “customer service” online, is that a real person or a robot on the other side? I built a chatbot, and here’s 3 things that I discovered.
+  date: 2019-07-13
+  author: Cheuk Ting Ho
+
+- title: If Errol Street Could Talk
+  vid: vksf3ckSpus
+  description: |
+    Diversity, big deal! As an active members and event organisers (and also on the minority side of the gender) in the Python community, we have alway been concern by the question of - Do we truly have a problem in diversity? Especially, gender diversity. We would like to find out the truth, by data science, and see if we can find a clue why and how we can fix it.
+  date: 2019-06-16
+  author: Cheuk Ting Ho
+
+- title: AI and algorithmic art
+  vid: AKkz4Uq_G1M
+  description: |
+    Some think neural networks are magic boxes, let the computers to have a mind of its own. Beside making classifications and predictions, neural networks have also been used to creating pictures, music, jokes and plays. Can creativity, what seems to make us special, be achieved by these magic boxes?
+  date: 2019-05-03
+  author: Cheuk Ting Ho
