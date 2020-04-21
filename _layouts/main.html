@@ -10,24 +10,12 @@ layout: default
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
+      {%- if site.data.wish.size > 0 -%}
+        {%- include wishlist.html -%}
       {%- endif -%}
 
-      {%- if site.posts.size > 0 -%}
-        {%- include posts.html -%}
-      {%- endif -%}
-
-      {%- if site.data.meetups.size > 0 -%}
-        {%- include meetups.html -%}
-      {%- endif -%}
-
-      {%- if site.data.videos.size > 0 -%}
-        {%- include videos.html -%}
-      {%- endif -%}
-
-      {%- if site.data.workshops.size > 0 -%}
-        {%- include workshops.html -%}
+      {%- if site.data.giveaway.size > 0 -%}
+        {%- include giveaway.html -%}
       {%- endif -%}
 
       {%- if site.more_content -%}
