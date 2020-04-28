@@ -5,4 +5,72 @@
       {{ site.more_content | strip | markdownify }}
     </div>
   </div>
+    <div class="header-right" >
+      <ul class="icons no-print" style="text-align: center;">
+        {%- if site.discord_username -%}
+          <li>
+            <a target="_blank" href="/" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-discord" title="Discord username"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.facebook_username -%}
+          <li>
+            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-facebook" title="Facebook link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.instagram_username -%}
+          <li>
+            <a target="_blank" href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-instagram" title="Instagram link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.twitter_username -%}
+          <li>
+            <a target="_blank" href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-twitter" title="Twitter link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.youtube_username -%}
+          <li>
+            <a target="_blank" href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-youtube" title="Youtube link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.twitch_username -%}
+        <li>
+          <a target="_blank" href="https://www.twitch.tv/{{ site.twitch_username}}" class="button button--sacnite button--round-l u-url">
+            <i class="fab fa-twitch" title="Twitch Channel"></i>
+          </a>
+        </li>
+        {%- endif -%}
+        {%- if site.pinterest_username -%}
+          <li>
+            <a target="_blank" href="https://www.pinterest.com/{{ site.pinterest_username| cgi_escape | escape }}" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-pinterest" title="Pintrest link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.github_username -%}
+          <li>
+            <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l u-url" rel="me">
+              <i class="fab fa-github" title="Github link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.devto_username -%}
+        <li>
+          <a target="_blank" href="https://dev.to/{{ site.devto_username}}" class="button button--sacnite button--round-l u-url" rel="me">
+            <i class="fab fa-dev" title="DEV Profile"></i>
+          </a>
+        </li>
+        {%- endif -%}
+      </ul>
+    </div>
+  </div>
 </div>

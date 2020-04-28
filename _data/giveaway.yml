@@ -1,55 +1,55 @@
 - name: NH-Bamboo_wand
   display_name: Bamboo wand
-  image: /assets/uploads/NH-Bamboo_wand.png
+  image: https://cdn.nookazon.com/tools/ToolStickBamboo.png
   link: https://animalcrossing.fandom.com/wiki/Wands
   status: DIY recipe
   date: 2020-04-20
 
 - name: NH-Fossil_doorplate
   display_name: Fossil doorplate
-  image: /assets/uploads/NH-Fossil_doorplate.png
+  image: https://i.imgur.com/HAByFz9.png
   link: https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted
   status: DIY recipe
   date: 2020-04-20
 
 - name: NH-Barbell
   display_name: Barbell
-  image: /assets/uploads/NH-Barbell.png
+  image: https://cdn.nookazon.com/housewares/FtrBarbell_Remake_0_0.png
   link: https://animalcrossing.fandom.com/wiki/Barbell
   status: DIY recipe
   date: 2020-04-20
 
 - name: NH-Bamboo_wall_decoration-green_bamboo
   display_name: Bamboo wall decoration
-  image: /assets/uploads/NH-Bamboo_wall_decoration-green_bamboo.png
+  image: /https://i.imgur.com/JXeCmS1.png
   link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
   status: DIY recipe
   date: 2020-04-20
 
 - name: NH-Bamboo_noodle_slide
   display_name: Bamboo noodle slide
-  image: /assets/uploads/NH-Bamboo_noodle_slide.png
+  image: https://cdn.nookazon.com/housewares/FtrBambooSomen.png
   link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
   status: DIY recipe
   date: 2020-04-20
 
 - name: NH-Butter_churn
   display_name: Butter churn
-  image: /assets/uploads/NH-Butter_churn.png
+  image: https://cdn.nookazon.com/housewares/FtrButtermixer_Remake_0_0.png
   link: https://animalcrossing.fandom.com/wiki/Butter_churn
   status: DIY recipe
   date: 2020-04-20
 
 - name: NH-Pink_blossoming_wall
   display_name: Pink blossoming wall
-  image: /assets/uploads/NH-Pink_blossoming_wall.png
+  image: https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry01.png
   link: https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)
   status: up for grab
   date: 2020-04-20
 
 - name: NH-Hat-Helmet_with_goggles
   display_name: Helmet with googles
-  image: /assets/uploads/NH-Hat-Helmet_with_goggles.png
+  image: https://cdn.nookazon.com/headwear/CapCostumeGogglehelmet4.png
   link: https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Hats
   variation: red
   status: up for grab
@@ -57,7 +57,7 @@
 
 - name: NH-Wall-mounted_tool_board
   display_name: Wall-mounted tool board
-  image: /assets/uploads/NH-Wall-mounted_tool_board.png
+  image: https://i.imgur.com/IdS19zn.png
   link: https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)
   variation: black
   status: up for grab
