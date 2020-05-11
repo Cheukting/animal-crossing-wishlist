@@ -25,6 +25,9 @@ devto_username: cheukting_ho
 twitch_username: cheukting_ho
 discord_username: cheukting#4104
 
+# Header setting
+banner_image: /images/wishliat-banner.jpg
+
 # About Section
 about_title: About My Island - Pearidise
 about_profile_image: images/pear-clipart.png
