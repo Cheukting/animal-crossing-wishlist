@@ -1,6 +1,6 @@
 # Site
 repository: Cheukting/Cheukting.github.io
-# favicon: images/favicon.ico
+favicon: images/Tom-Nook-icon.jpg
 
 # Personal info
 name: Cheuk Ting Ho
@@ -27,6 +27,7 @@ discord_username: cheukting#4104
 
 # Header setting
 banner_image: /images/wishliat-banner.jpg
+favicon_dir: /favicon
 
 # About Section
 about_title: About My Island - Pearidise

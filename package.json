@@ -46,6 +46,7 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "gulp-zip": "^5.0.0",
+    "node-sass": "^4.14.1",
     "s3-website": "^3.3.0",
     "stylelint": "^10.1.0",
     "stylelint-config-recommended": "^2.2.0",
