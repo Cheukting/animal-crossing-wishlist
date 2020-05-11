@@ -7,7 +7,7 @@
       <h2 class="videos__text e-content" style="overflow-wrap: break-word;"><strong itemprop="name">{{ item.display_name }}</strong> —
         <span itemprop="description">
         {% if item.status == "up for grab" %}✅
-        {% else if item.status == "DIY recipe" %}<img src="/images/diy-icon.png" alt="DIY recipe" style="height: 1.75em;"/>
+        {% else if item.status == "DIY recipe" %}<img src="{{ '/images/diy-icon.png' | relative_url }}" alt="DIY recipe" style="height: 1.75em;"/>
         {% endif %}
         {% if color_variation == "yes" %}🎨 Open to variations{% endif %}</span></h2>
     </div>
