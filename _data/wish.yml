@@ -1,63 +1,64 @@
-- name: NH-Cherry-blossom_pochette
-  display_name: Cherry-blossom pochette
-  image: https://cdn.nookazon.com/bags/BagShoulderCherryblossoms0.png
-  link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
-  status: wanted
-  color_variation:
-  date: 2020-04-20
+items:
+  - name: NH-Cherry-blossom_pochette
+    display_name: Cherry-blossom pochette
+    image: https://cdn.nookazon.com/bags/BagShoulderCherryblossoms0.png
+    link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
+    status: wanted
+    color_variation:
+    date: 2020-04-20
 
-- name: NH-Cherry-blossom_pond_stone
-  display_name: Cherry-blossom pond stone
-  image: https://cdn.nookazon.com/housewares/FtrStonewaterbowlSakura.png
-  link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
-  status: wanted
-  color_variation:
-  date: 2020-04-20
+  - name: NH-Cherry-blossom_pond_stone
+    display_name: Cherry-blossom pond stone
+    image: https://cdn.nookazon.com/housewares/FtrStonewaterbowlSakura.png
+    link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
+    status: wanted
+    color_variation:
+    date: 2020-04-20
 
-- name: NH-Cherry-blossom_bonsai
-  display_name: Cherry-blossom bonsai
-  image: https://cdn.nookazon.com/miscellaneous/FtrBonsaiSakura.png
-  link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
-  status: wanted
-  color_variation:
-  date: 2020-04-20
+  - name: NH-Cherry-blossom_bonsai
+    display_name: Cherry-blossom bonsai
+    image: https://cdn.nookazon.com/miscellaneous/FtrBonsaiSakura.png
+    link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
+    status: wanted
+    color_variation:
+    date: 2020-04-20
 
-- name: NH-Cherry-blossom_branches
-  display_name: Cherry-blossom branches
-  image: https://cdn.nookazon.com/housewares/FtrSakuraBranch.png
-  link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
-  status: wanted
-  color_variation:
-  date: 2020-04-20
+  - name: NH-Cherry-blossom_branches
+    display_name: Cherry-blossom branches
+    image: https://cdn.nookazon.com/housewares/FtrSakuraBranch.png
+    link: https://animalcrossing.fandom.com/wiki/Cherry-blossom_set
+    status: wanted
+    color_variation:
+    date: 2020-04-20
 
-- name: NH-Bamboo_floor_lamp-green_bamboo
-  display_name: Bamboo floor lamp
-  image: https://cdn.nookazon.com/housewares/FtrBambooLamp_Remake_0_0.png
-  link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
-  status: wanted
-  color_variation: yes
-  date: 2020-04-20
+  - name: NH-Bamboo_floor_lamp-green_bamboo
+    display_name: Bamboo floor lamp
+    image: https://cdn.nookazon.com/housewares/FtrBambooLamp_Remake_0_0.png
+    link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
+    status: wanted
+    color_variation: yes
+    date: 2020-04-20
 
-- name: NH-Bamboo_sphere-green_bamboo
-  display_name: Bamboo sphere
-  image: https://cdn.nookazon.com/miscellaneous/FtrBambooBall_Remake_0_0.png
-  link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
-  status: wanted
-  color_variation: yes
-  date: 2020-04-20
+  - name: NH-Bamboo_sphere-green_bamboo
+    display_name: Bamboo sphere
+    image: https://cdn.nookazon.com/miscellaneous/FtrBambooBall_Remake_0_0.png
+    link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
+    status: wanted
+    color_variation: yes
+    date: 2020-04-20
 
-- name: NH-Bamboo_shelf-green_bamboo
-  display_name: Bamboo shelf
-  image: https://cdn.nookazon.com/housewares/FtrBambooShelf_Remake_0_0.png
-  link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
-  status: wanted
-  color_variation: yes
-  date: 2020-04-20
+  - name: NH-Bamboo_shelf-green_bamboo
+    display_name: Bamboo shelf
+    image: https://cdn.nookazon.com/housewares/FtrBambooShelf_Remake_0_0.png
+    link: https://animalcrossing.fandom.com/wiki/Bamboo_Set_(New_Horizons)
+    status: wanted
+    color_variation: yes
+    date: 2020-04-20
 
-- name: NH-Apple_chair-red
-  display_name: Apple chair
-  image: https://cdn.nookazon.com/housewares/FtrFruitsChairApple_Remake_0_0.png
-  link: https://animalcrossing.fandom.com/wiki/Fruit_set_(New_Horizons)
-  status: wanted
-  color_variation: yes
-  date: 2020-04-20
+  - name: NH-Apple_chair-red
+    display_name: Apple chair
+    image: https://cdn.nookazon.com/housewares/FtrFruitsChairApple_Remake_0_0.png
+    link: https://animalcrossing.fandom.com/wiki/Fruit_set_(New_Horizons)
+    status: wanted
+    color_variation: yes
+    date: 2020-04-20

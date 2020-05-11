@@ -1,0 +1,39 @@
+# config.yml
+backend:
+  name: github
+  repo: Cheukting/animal-crossing-wishlist
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'content'
+    label: 'Content'
+    files:
+      - label: "Wishlist"
+        name: "wish"
+        file: "_data/wish.yml"
+        fields:
+          - label: 'Wish Items'
+            name: wishitems
+            widget: list
+            fields:
+              - {label: ID, name: name, widget: string}
+              - {label: Name, name: display_name, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Link, name: link, widget: string}
+              - {label: Status, name: status, widget: select, options: ["wanted", "aquried", "in-trade"]}
+              - {label: 'Color Variation', name: color_variation, widget: select, options: ["yes", "no"]}
+              - {label: Date, name: date, widget: 'datetime'}
+      - label: "Giveaway"
+        name: "giveaway"
+        file: "_data/giveaway.yml"
+        fields:
+          - label: Giveaway
+            name: give
+            widget: list
+            fields:
+              - {label: ID, name: name, widget: string}
+              - {label: Name, name: display_name, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Link, name: link, widget: string}
+              - {label: Status, name: status, widget: select, options: ["DIY recipe", "up for grab"]}
+              - {label: Date, name: date, widget: 'datetime'}

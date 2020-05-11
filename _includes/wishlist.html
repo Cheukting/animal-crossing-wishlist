@@ -3,7 +3,7 @@
       <h3>Wishlist</h3>
       <div class="grid-xlarge">
         <div class="videos__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-          {% for item in site.data.wish %}
+          {% for item in site.data.wish.items %}
 
             <!-- The tag below includes the markup for each post - partials/post-card.html -->
             {% include item-card.html %}
