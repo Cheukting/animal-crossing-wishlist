@@ -72,6 +72,7 @@
     &:hover {
       .videos__img {
         transform: translate3d(0, -10px, 0);
+        max-height: 500px;
       }
     }
   }
