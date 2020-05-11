@@ -3,6 +3,8 @@ backend:
   name: github
   repo: Cheukting/animal-crossing-wishlist
   branch: master # Branch to update (optional; defaults to master)
+  base_url: https://ac-wishlist-auth.herokuapp.com # Path to ext auth provider
+
 media_folder: 'assets/uploads'
 collections:
   - name: 'content'
