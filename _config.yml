@@ -10,8 +10,8 @@ phone:
 website:
 description: >
   I play Animal Crossing New Horison and there are items that I really wanted. Would like to trade with you.
-url: https://wishlist.cheuk.dev
-baseurl: ""
+#url: https://wishlist.cheuk.dev
+baseurl: "/animal-crossing-wishlist"
 permalink: /:year/:month/:day/:title/
 
 # Social links
